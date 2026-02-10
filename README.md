@@ -11,6 +11,10 @@ Explanation here
 - successfully done
 
 
+
+
+
+
 Engineering Journal
 Artifact for the 2nd week day - 2
 Date: 2/10/2026
