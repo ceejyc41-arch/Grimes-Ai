@@ -31,4 +31,19 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 Explanation here
 - simple ui using react and tailwind
 
+Engineering Journal
+Artifact for the 2nd week day - 3
+Date: 2/11/2026
+Morning Stand-Up:
+What did I do yesterday?
+- simple ui using react and tailwind
+What will I do today?
+- continue the process of what did do yesterday
+What are my blockers?
+- Feel sleepy 
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+
+Explanation here
+- simple ui using react and tailwind
+
 
