@@ -40,10 +40,12 @@ What did I do yesterday?
 What will I do today?
 - continue the process of what did do yesterday
 What are my blockers?
-- Feel sleepy 
+- fixing errors in my code
 End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
-
+  <img width="1907" height="976" alt="image" src="https://github.com/user-attachments/assets/6feb5b9c-d6b2-4d3e-a772-31a1344d61ea" />
 Explanation here
-- simple ui using react and tailwind
+- finish UI of the chatbot connected to gemini anti gravity
+ 
+  
 
 
