@@ -60,7 +60,23 @@ End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
 <img width="1919" height="940" alt="image" src="https://github.com/user-attachments/assets/1abb98d5-c54b-42d2-9952-6bba07eca349" />
 
 Explanation here
-- This is the final design and output of Ui chat bot that connected to gemini 2.5 anti gravity  
+- This is the final design and output of Ui chat bot that connected to gemini 2.5 anti gravity
+
+   #Engineering Journal
+Artifact for the 2nd week day - 5
+Date: 2/13/2026
+Morning Stand-Up:
+What did I do yesterday?
+- finishing the final degisn and output of Ui chat bot 
+What will I do today?
+- Presenting the chat bot ai that connected to gemini 2.5 anti gravity 
+What are my blockers?
+- propmting and fixing errors
+End-of-day Checkout (Screenshot of the biggest "win" and/or "error" of the day)
+<img width="1914" height="1037" alt="image" src="https://github.com/user-attachments/assets/ffe44b5f-0f20-4200-8410-278ad12f6531" />
+<img width="1371" height="687" alt="image" src="https://github.com/user-attachments/assets/2e9b72df-0edb-4c18-b9f8-00de8aa882d5" />
+<img width="1276" height="694" alt="image" src="https://github.com/user-attachments/assets/2a9fc1b1-8263-4974-bd3b-27d93ed57493" />
+
 
 
   
